@@ -7,6 +7,6 @@
   "sha256": "3d728782530453b947337da7779b1c62ca2deb7148e28f794da381e28cf1b46b",
   "changelog": "1.修复部分情况下工具解析失败、弃用。2.增加本地会话记忆功能集成跨agent适用",
   "apkUrl": [
-    "https://github.com/1ng517/myapp-release/releases/download/v1.5.56/DS-API-1.5.56.apk"
+    "https://github.com/1ng517/myapp-release/releases/download/DS_API/DeepSeek.API-1.5.56.apk"
   ]
 }
