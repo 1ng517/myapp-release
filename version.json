@@ -1,15 +1,12 @@
 {
-  "versionCode": 80,
-  "versionName": "1.5.56",
+  "versionCode": 82,
+  "versionName": "1.5.58",
   "force": false,
   "minSupportedVersionCode": 1,
   "size": 32675136,
-  "sha256": "3d728782530453b947337da7779b1c62ca2deb7148e28f794da381e28cf1b46b",
-  "changelog": "更新内容
-增加了在线更新功能
-优化了部分场景工具解析不完整、被丢弃的bug
-增加了TencenDB agent memory本地集成，支持多agent本地记忆功能",
+  "sha256": "1822154ce7a457d2f4768b1894210e55d8e872d455f32383280280cd4ac0ff1c",
+  "changelog": "1.修复部分工具调用可能会出现解析失败、丢失参数的问题。2.首页新增版本信息行：显示当前版本与最新版本，有更新时出现「更新」按钮，可在线更新。3.增加了TencenDB agent memory本地集成，支持多agent本地记忆功能。",
   "apkUrl": [
-    "https://github.com/1ng517/myapp-release/releases/download/DS_API/DeepSeek.API-1.5.56.apk"
+    "https://github.com/1ng517/myapp-release/releases/download/v1.5.58/DS-API-1.5.58.apk"
   ]
 }
