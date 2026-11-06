@@ -1,12 +1,11 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
+  "versionCode": 80,
+  "versionName": "1.5.56",
   "force": false,
   "minSupportedVersionCode": 1,
-  "size": 24567890,
-  "sha256": "这里后面填APK的sha256",
-  "changelog": "优化了部分bug",
-  "changelog": "增加了TencenDB agent memory本地集成，支持多agent本地记忆功能",
+  "size": 32675136,
+  "sha256": "3d728782530453b947337da7779b1c62ca2deb7148e28f794da381e28cf1b46b",
+  "changelog": "1.修复部分情况下工具解析失败、弃用。2.增加本地会话记忆功能集成跨agent适用",
   "apkUrl": [
     "https://github.com/1ng517/myapp-release/releases/download/v1.5.56/DeepSeek本地API-1.5.56.apk"
   ]
