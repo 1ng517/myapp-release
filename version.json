@@ -5,7 +5,10 @@
   "minSupportedVersionCode": 1,
   "size": 32675136,
   "sha256": "3d728782530453b947337da7779b1c62ca2deb7148e28f794da381e28cf1b46b",
-  "changelog": "1.修复部分情况下工具解析失败、弃用。2.增加本地会话记忆功能集成跨agent适用",
+  "changelog": "更新内容
+增加了在线更新功能
+优化了部分场景工具解析不完整、被丢弃的bug
+增加了TencenDB agent memory本地集成，支持多agent本地记忆功能",
   "apkUrl": [
     "https://github.com/1ng517/myapp-release/releases/download/DS_API/DeepSeek.API-1.5.56.apk"
   ]
