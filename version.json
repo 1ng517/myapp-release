@@ -1,12 +1,12 @@
 {
-  "versionCode": 83,
-  "versionName": "1.5.59",
+  "versionCode": 84,
+  "versionName": "1.5.60",
   "force": false,
   "minSupportedVersionCode": 1,
-  "size": 32707900,
-  "sha256": "7810eeb65b79ec38d3da38641d4ed6610130fcecbf57bdfb4acad0621ee7dcf7",
-  "changelog": "0.增加在线更新、本地记忆功能。\n1. 记忆升级为分层结构：对话、偏好画像、场景、技能、文档知识。\n2. 新增本地向量检索（512 维特征哈希），换个说法也能命中。\n3. 支持导入文档并按段检索（RAG）。\n4. 设置页新增注入长度与各项开关，每项都带说明。",
+  "size": 83448519,
+  "sha256": "e4a31b31c2ffdededf5073fa198e0955ba13e18a7d69bd4a83a27a2b4eedae3a",
+  "changelog": "1. 内置本地语义向量模型 bge-small-zh（512 维），记忆召回改为语义检索，换一种说法也能命中。\n2. 模型完全离线运行，不联网、不上传任何内容。\n3. 检测到新版本时不再自动弹窗，改为首页「更新」按钮，点击后才弹窗。\n4. 安装包因内置模型增大到约 83MB。",
   "apkUrl": [
-    "https://github.com/1ng517/myapp-release/releases/download/DS_API/DS-API-1.5.59.apk"
+    "https://github.com/1ng517/myapp-release/releases/download/DS_API/DS-API-1.5.60.apk"
   ]
 }
