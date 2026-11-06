@@ -7,6 +7,6 @@
   "sha256": "1822154ce7a457d2f4768b1894210e55d8e872d455f32383280280cd4ac0ff1c",
   "changelog": "1.修复部分工具调用可能会出现解析失败、丢失参数的问题。\n 2.首页新增版本信息行：显示当前版本与最新版本，有更新时出现「更新」按钮，可在线更新。\n 3.增加了TencenDB agent memory本地集成，支持多agent本地记忆功能。",
   "apkUrl": [
-    "https://github.com/1ng517/myapp-release/releases/download/DS_API/v1.5.58/DS-API-1.5.58.apk"
+    "https://github.com/1ng517/myapp-release/releases/download/DS_API/DS-API-1.5.58.apk"
   ]
 }
