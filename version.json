@@ -5,8 +5,8 @@
   "minSupportedVersionCode": 1,
   "size": 24567890,
   "sha256": "这里后面填APK的sha256",
-  "changelog": "优化了部分bug
-增加了TencenDB agent memory本地集成，支持多agent本地记忆功能",
+  "changelog": "优化了部分bug",
+  "changelog": "增加了TencenDB agent memory本地集成，支持多agent本地记忆功能",
   "apkUrl": [
     "https://github.com/1ng517/myapp-release/releases/download/v1.5.56/DeepSeek本地API-1.5.56.apk"
   ]
