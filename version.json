@@ -1,12 +1,12 @@
 {
-  "versionCode": 90,
-  "versionName": "1.5.66",
+  "versionCode": 91,
+  "versionName": "1.5.67",
   "force": false,
   "minSupportedVersionCode": 1,
-  "size": 51913304,
-  "sha256": "b52e6e6fa3e4edb8078d6972d11699d3f44dbf8bf784cdf193fb2d8d119c7106",
-  "changelog": "1. 更新失败提示改为中文，并在网络失败时自动换源。\n2. 集成opencode免费模型API调用\n3. OC-API 界面可手动启动或停止代理。",
+  "size": 51912756,
+  "sha256": "ca6822447c9042b894e692199c57482c97d1b4c463356d980f3edb6ece0c3d5b",
+  "changelog": "1. 修复使用 chunked（无 Content-Length）方式发送请求时报「请求 JSON 无效: unexpected end of JSON input」的问题。\n2. 支持 Expect: 100-continue 的客户端。\n3. 请求体为空时返回明确的中文提示，不再给出晦涩的 JSON 解析错误。",
   "apkUrl": [
-    "https://github.com/1ng517/myapp-release/releases/download/DS_API/DS-API-1.5.66.apk"
+    "https://github.com/1ng517/myapp-release/releases/download/DS_API/DS-API-1.5.67.apk"
   ]
 }
